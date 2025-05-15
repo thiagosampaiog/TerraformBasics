@@ -1,0 +1,5 @@
+@url = https://polsikz4b4.execute-api.us-east-2.amazonaws.com/dev
+
+GET {{url}}/messages
+###
+POST {{url}}/messages
