@@ -1,1 +1,2 @@
 *.py linguist-detectable=false
+path/to/file linguist-generated=true
